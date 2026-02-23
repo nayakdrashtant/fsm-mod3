@@ -80,7 +80,6 @@ Invalid character handling
 
 You can also run PHPUnit directly:
 
-//here...
 vendor/bin/phpunit
 ```
 ### Example
